@@ -1,4 +1,4 @@
-# 📚 ETH BookStore - Decentralized E-Store with Stable USD Pricing
+# 📚 ETH BookStore - Decentralized Simple E-Store with Stable USD Pricing
 
 ![Project Banner](https://via.placeholder.com/1200x400?text=ETH+BookStore+DApp)
 
