@@ -1,8 +1,8 @@
 # 📚 ETH BookStore - Decentralized E-Store with Stable USD Pricing
 
 <p align="center">
-  <img src="/public/images/project-admin-screenshot.png" alt="First feature overview" width="400" height="700" style="margin-right: 15px;">
-  <img src="/public/images/project-user-screenshot.png" alt="Second feature detail" width="400" height="700">
+  <img src="Backend/public/images/project-admin-screenshot.png" alt="Admin screen" width="400" height="700" style="margin-right: 15px;">
+  <img src="Backend/public/images/project-user-screenshot.png" alt="Noraml User screen" width="400" height="700">
 </p>
 
 ## About This Project
