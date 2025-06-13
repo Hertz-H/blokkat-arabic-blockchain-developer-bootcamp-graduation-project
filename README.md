@@ -207,5 +207,4 @@ NEXT_PUBLIC_PROJECT_ID=57e1f5e0adb6153508d54bf659d3ddee
 ---
 
 ## 📹 Demo
-
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[BookStore - Demo](https://www.awesomescreenshot.com/video/40922678?key=49550a107c9e5bf04c660bc3ac827afe)
